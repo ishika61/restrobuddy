@@ -1,5 +1,5 @@
 import axios from "axios";
-const serverURL="https://restrobuddy-backend.onrender.com"
+const serverURL="http://localhost:5000";
 
 
 function generateOtp() {

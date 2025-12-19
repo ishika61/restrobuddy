@@ -1,10 +1,10 @@
 var mysql = require("mysql2")
 var pool = mysql.createPool({
-    host: "r1bk9t.h.filess.io",
-    port: 61002,
-    user: "Restrobuddy_ropethemby",
-    password: "f56fa0a700dfa072c7bfb6d21da48e6d170d58e9",
-    database: "Restrobuddy_ropethemby",
+    host: "localhost",
+    port: 3306,
+    user: "root",
+    password: "1234",
+    database: "restrobuddys",
     multipleStatements: true,
     connectionLimit: 100,
 })

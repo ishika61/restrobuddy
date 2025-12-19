@@ -34,9 +34,6 @@ export default function Footer()
 
     const policy={title:'LEARN MORE',links:[{name:'privacy',url:'#'},{name:'Security',url:'#'},{name:'Terms',url:'#'}
     ]}
-
-
-
     return(
         <div style={{display:'flex',flexDirection:'column', padding:50,height:'auto',background:'rgb(251, 251, 251)'}}>
                 <Grid2 container spacing={2}>

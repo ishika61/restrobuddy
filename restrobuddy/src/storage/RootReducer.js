@@ -3,7 +3,6 @@ const initialState={
        user:{},
        useraddress: {},
 }
-
 export default function RootReducer(state=initialState,action)
 {
   switch(action.type)
@@ -37,9 +36,7 @@ export default function RootReducer(state=initialState,action)
         state.cart={}
         state.user={}   
         state.useraddress={}
-        return { cart: state.cart, user: state.user,useraddress:state.useraddress };
-
-          
+        return { cart: state.cart, user: state.user,useraddress:state.useraddress };     
     default:
         return {cart:state.cart,user:state.user} 
   }

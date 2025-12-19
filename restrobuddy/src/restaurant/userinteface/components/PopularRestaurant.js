@@ -2,7 +2,6 @@ import useMediaQuery from '@mui/material/useMediaQuery';
 import { useTheme } from '@mui/material/styles';
 import PopularRestaurantComponent from "./PopularRestaurantComponent";
 import { useEffect, useState } from 'react';
-
 export default function PopularRestaurant({data,title})
 {
     var theme=useTheme()
@@ -13,7 +12,6 @@ export default function PopularRestaurant({data,title})
             return(<PopularRestaurantComponent key={item?.restaurantid} item={item} index={index} setShowRestaurant={setShowRestaurant} showRestaurant={showRestaurant} />)
         })
     }
-
     useEffect(function(){},[showRestaurant])
     return(<div style={{width:'100%',justifyContent:'center',alignItems:'center',display:'flex',flexDirection:'column'}}>
         <div style={{width:'72%',marginLeft:10,marginTop:50,marginBottom:10,fontSize:matches?18:28,fontWeight:560}}>

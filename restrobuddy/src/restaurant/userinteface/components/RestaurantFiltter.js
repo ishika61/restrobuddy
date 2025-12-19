@@ -2,7 +2,6 @@ import { Button } from "@mui/material"
 import filter from '../../../assets/filter.png'
 import useMediaQuery from '@mui/material/useMediaQuery'
 import {useTheme} from '@mui/material/styles'
-
 export default function RestaurantFiltter({data})
 {
     var theme=useTheme()

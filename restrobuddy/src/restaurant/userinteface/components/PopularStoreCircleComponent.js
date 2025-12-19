@@ -8,7 +8,6 @@ import { useRef } from "react";
 import useMediaQuery from '@mui/material/useMediaQuery'
 import {useTheme} from '@mui/material/styles'
 import { useNavigate } from "react-router-dom";
-
 export default function PopularStoreComponent({data})
 {
     const navigate=useNavigate()
