@@ -1,31 +1,37 @@
-🍽️ RestroBuddy – Online Food Ordering Platform
+🍽️ RestroBuddy – Online Food Ordering App
 
-- A full-stack online food ordering application built using React.js, Node.js, Express, and MySQL.
+Welcome to the RestroBuddy project! 😊
 
-- The platform allows users to browse restaurants, explore menus, manage carts, and place orders securely with JWT authentication and online payment integration.
+📌 Overview
+RestroBuddy is a full-stack online food ordering application where users can browse restaurants, explore food menus, add items to cart, and place orders securely.
+The platform also supports admin functionalities for managing food items and orders.
 
-🎯 Features Implemented
-• User authentication with JWT  
-• Secure login and signup  
-• Browse restaurants and food menus  
-• Add items to cart (Redux)  
-• Update & remove cart items  
-• Online payment integration  
-• Order placement and management  
-• Responsive UI using Material UI & Bootstrap  
-• RESTful APIs with Node.js & Express  
-• MySQL database integration  
+🔗 Live Link
+👉 https://your-restrobuddy-live-link.com
 
-📌 Instructions
-To run frontend
-• Navigate to the frontend folder  
-• npm install  
-• npm start  
+✨ Extra Features
 
-To run backend
-• Navigate to the backend folder  
-• npm install  
-• npm start  
+- Authorization & Authentication (Login / Sign Up) using JWT
+- Role-based access (User & Admin)
+- Cart management using Redux
+- Secure online payment integration
+- Fully responsive & mobile-friendly UI
+- Clean and modern UI using Material UI & Bootstrap
+- Toast notifications & loaders
+- Clean folder structure
+
+Demo Video ▶️
+
+📽️ Video Link: https://your-demo-video-link.com
+
+🛠️ Tech Stack Used
+
+Frontend: React.js
+State Management: Redux
+Backend: Node.js,Express.js
+Database: MySQL
+Styling: Material UI, Bootstrap,HTML, CSS, JavaScript
+API Testing: Postman
 
 📸 Screenshots
 | Login Screen | Signup Screen | Home Screen |
