@@ -1,101 +1,45 @@
 🍽️ RestroBuddy – Online Food Ordering Platform
 
-RestroBuddy is a full-stack online food ordering application built using React.js, Node.js, Express, and MySQL.
-The platform allows users to explore restaurants, browse menus, manage carts, and place orders with secure authentication and online payments.
-It is fully responsive and designed with a modern UI using Material UI & Bootstrap.
+- A full-stack online food ordering application built using React.js, Node.js, Express, and MySQL.
 
-Project Overview
+- The platform allows users to browse restaurants, explore menus, manage carts, and place orders securely with JWT authentication and online payment integration.
 
-RestroBuddy provides a seamless digital experience for both customers and restaurant owners.
-It focuses on performance, scalability, and usability, making food ordering fast, secure, and user-friendly across all devices.
+🎯 Features Implemented
+• User authentication with JWT  
+• Secure login and signup  
+• Browse restaurants and food menus  
+• Add items to cart (Redux)  
+• Update & remove cart items  
+• Online payment integration  
+• Order placement and management  
+• Responsive UI using Material UI & Bootstrap  
+• RESTful APIs with Node.js & Express  
+• MySQL database integration  
 
-🔑 Core Features
-🔐 Authentication System
+📌 Instructions
+To run frontend
+• Navigate to the frontend folder  
+• npm install  
+• npm start  
 
-Secure Signup & Login
+To run backend
+• Navigate to the backend folder  
+• npm install  
+• npm start  
 
-JWT-based authorization
+📸 Screenshots
+| Login Screen | Signup Screen | Home Screen |
+|-------------|--------------|-------------|
+| ![](screenshots/login.png) | ![](screenshots/signup.png) | ![](screenshots/home.png) |
 
-Protected routes for users and admins
+| Restaurant List | Food Menu | Cart Page |
+|-----------------|-----------|-----------|
+| ![](screenshots/restaurants.png) | ![](screenshots/menu.png) | ![](screenshots/cart.png) |
 
-🛒 Cart Management
+| Payment Page | Order Summary | Admin Dashboard |
+|--------------|--------------|----------------|
+| ![](screenshots/payment.png) | ![](screenshots/order.png) | ![](screenshots/admin.png) |
 
-Add / remove food items
 
-Quantity updates
 
-Redux-based state management
 
-📜 Menu & Restaurant Listings
-
-Dynamic restaurant listing
-
-Categorized food menus
-
-Detailed food item pages
-
-💳 Online Payment Integration
-
-Secure payment gateway
-
-Smooth checkout experience
-
-📦 Order Management
-
-Add, update, and review cart items
-
-Order placement before checkout
-
-Order tracking support
-
-🎨 Responsive UI
-
-Built with React.js, Material UI, Bootstrap
-
-Mobile, tablet & desktop friendly
-
-Clean and modern design
-
-⚡ Backend Services
-
-RESTful APIs using Node.js & Express
-
-Structured data storage using MySQL
-
-Secure & scalable backend architecture
-
-🛠️ Tech Stack
-- Frontend
-React.js
-
-Material UI (MUI)
-
-Bootstrap
-
-HTML5
-
-CSS3
-
-JavaScript
-
-State Management
-
-Redux
-
-Backend
-
-Node.js
-
-Express.js
-
-Database
-
-MySQL
-
-Security & Other
-
-JWT Authentication
-
-Online Payment Gateway
-
-Responsive Design
