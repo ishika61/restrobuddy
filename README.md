@@ -2,7 +2,7 @@
 
 Welcome to the RestroBuddy project! 😊
 
-📌 Overview
+**📌 Overview**
 RestroBuddy is a full-stack online food ordering application where users can browse restaurants, explore food menus, add items to cart, and place orders securely.
 The platform also supports admin functionalities for managing food items and orders.
 
