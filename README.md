@@ -1,37 +1,40 @@
-🍽️ RestroBuddy – Online Food Ordering App
+# 🍽️ RestroBuddy – Online Food Ordering Platform
 
-Welcome to the RestroBuddy project! 😊
+A **full-stack online food ordering application** built using **React.js, Node.js, Express, and MySQL**.  
+The platform allows users to explore restaurants, browse menus, manage carts, and place orders securely.  
+The backend handles authentication, order management, payments, and secure REST APIs.
 
-**📌 Overview**
-RestroBuddy is a full-stack online food ordering application where users can browse restaurants, explore food menus, add items to cart, and place orders securely.
-The platform also supports admin functionalities for managing food items and orders.
+---
 
-🔗 Live Link
-👉 https://your-restrobuddy-live-link.com
+## 🎯 Features Implemented
 
-✨ Extra Features
+- User authentication with **JWT**
+- Secure Login & Signup
+- Browse restaurants
+- View food menus by category
+- Add items to cart
+- Update & remove cart items
+- Place food orders
+- Online payment integration
+- Order management (User & Admin)
+- Role-based access (Admin / User)
+- Responsive UI using **Material UI & Bootstrap**
 
-- Authorization & Authentication (Login / Sign Up) using JWT
-- Role-based access (User & Admin)
-- Cart management using Redux
-- Secure online payment integration
-- Fully responsive & mobile-friendly UI
-- Clean and modern UI using Material UI & Bootstrap
-- Toast notifications & loaders
-- Clean folder structure
+**Bonus Features:**  
+- Toast notifications  
+- Loaders & animations  
+- Clean and scalable folder structure  
 
-Demo Video ▶️
+---
 
-📽️ Video Link: https://your-demo-video-link.com
+## 📝 Instructions
 
-🛠️ Tech Stack Used
-
-Frontend: React.js
-State Management: Redux
-Backend: Node.js,Express.js
-Database: MySQL
-Styling: Material UI, Bootstrap,HTML, CSS, JavaScript
-API Testing: Postman
+### 1️⃣ To run frontend
+- Navigate to the frontend folder:
+```bash
+cd frontend
+npm install
+npm start
 
 📸 Screenshots
 | Login Screen | Signup Screen | Home Screen |
