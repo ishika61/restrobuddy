@@ -82,16 +82,17 @@ RestroBuddy/
 ---
 
 ## 📥 Clone the Repository
-
-```bash
+```
 git clone https://github.com/ishika61/restrobuddy.git
+```
 
 Navigate to the project directory:
+```
 cd restrobuddy
-
+```
 
 ## 🔧 Backend Setup
-
+```
 Create a .env file inside the backend folder and add:
 PORT=5000
 DB_HOST=localhost
@@ -99,28 +100,34 @@ DB_USER=root
 DB_PASSWORD=your_password
 DB_NAME=restrobuddy
 JWT_SECRET=your_jwt_secret
-
+```
 
 Set up and run the backend:
 # Navigate to backend directory
+```
 cd backend
-
+```
 # Install dependencies
+```
 npm install
-
+```
 # Start the backend server
+```
 npm start
-
+```
 ## 💻 Frontend Setup
 
 Navigate to the frontend directory:
+```
 cd frontend
-
+```
 Install dependencies and start the React app:
 # Install dependencies
+```
 npm install
-
+````
 # Start the React app
+```
 npm start
-
+```
 
