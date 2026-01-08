@@ -55,20 +55,27 @@ RestroBuddy/
 └── README.md : Project documentation
 
 
-<img width="1911" height="881" alt="admin" src="https://github.com/user-attachments/assets/acb0c08d-cf0e-40b0-9826-56673251f3d1" />
+
 
 ## 📸 Screenshots
 | Login Screen | Signup Screen | Home Screen |
 |-------------|--------------|-------------|
-| ![](screenshots/login.png) | ![](screenshots/signup.png) | ![](screenshots/home.png) |
+| ![](<img width="1912" height="880" alt="login" src="https://github.com/user-attachments/assets/bc123268-016c-4b34-ac0e-3bff9c1ccfc9" />) | ![](<img width="1902" height="877" alt="signup" src="https://github.com/user-attachments/assets/a5b47b4f-41b4-4df5-ad4e-7abe033aeeba" />
+) | ![](<img width="1877" height="885" alt="home" src="https://github.com/user-attachments/assets/60bbfca4-3fc7-4ee4-a37a-98fa9ce7bdfc" />) |
 
 | Cart Page |
-|-----------------|-----------|-----------|
-| ![](screenshots/cart.png) |
+
+
+|-----------------|
+| ![](<img width="1874" height="872" alt="cart" src="https://github.com/user-attachments/assets/1b4bfe21-d7aa-4cd7-be52-54ffb8d6bc50" />) |
+
 
 | Payment | restaurant ragistration | Admin Dashboard |
 |--------------|--------------|----------------|
-| ![](screenshots/payment.png) | ![](screenshots/admin.png) | ![](screenshots/loginadmin) |
+| ![](<img width="1896" height="887" alt="payment" src="https://github.com/user-attachments/assets/c98aebbd-2fb0-458d-a075-d35b5702b930" />) | ![](<img width="1911" height="881" alt="admin" src="https://github.com/user-attachments/assets/c9025827-a9fd-459f-ab99-26c55d771851" />
+) | ![](<img width="1907" height="876" alt="loginadmin" src="https://github.com/user-attachments/assets/288af3a1-2627-482b-8684-89a399076a44" />) |
+
+
 
 
 ---
