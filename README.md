@@ -59,7 +59,7 @@ RestroBuddy/
 
 ## 📸 Screenshots
 
-| ![](<img width="1912" height="880" alt="login" src="https://github.com/user-attachments/assets/bc123268-016c-4b34-ac0e-3bff9c1ccfc9" />) | ![](<img width="1902" height="877" alt="signup" src="https://github.com/user-attachments/assets/a5b47b4f-41b4-4df5-ad4e-7abe033aeeba" />
+<img width="1912" height="880" alt="login" src="https://github.com/user-attachments/assets/bc123268-016c-4b34-ac0e-3bff9c1ccfc9" /> | ![](<img width="1902" height="877" alt="signup" src="https://github.com/user-attachments/assets/a5b47b4f-41b4-4df5-ad4e-7abe033aeeba" />
 ) | ![](<img width="1877" height="885" alt="home" src="https://github.com/user-attachments/assets/60bbfca4-3fc7-4ee4-a37a-98fa9ce7bdfc" />) |
 
 
