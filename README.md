@@ -55,6 +55,7 @@ RestroBuddy/
 └── README.md : Project documentation
 
 
+<img width="1911" height="881" alt="admin" src="https://github.com/user-attachments/assets/acb0c08d-cf0e-40b0-9826-56673251f3d1" />
 
 ## 📸 Screenshots
 | Login Screen | Signup Screen | Home Screen |
