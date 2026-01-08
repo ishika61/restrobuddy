@@ -12,7 +12,7 @@ Authenticated admins can manage food items, categories, and orders, while users 
 ---
 
 ## 🔗 Live Link
-👉 *(Add your deployed link here)*
+
 
 ---
 
@@ -61,13 +61,13 @@ RestroBuddy/
 |-------------|--------------|-------------|
 | ![](screenshots/login.png) | ![](screenshots/signup.png) | ![](screenshots/home.png) |
 
-| Restaurant List | Food Menu | Cart Page |
+| Cart Page |
 |-----------------|-----------|-----------|
-| ![](screenshots/restaurants.png) | ![](screenshots/menu.png) | ![](screenshots/cart.png) |
+| ![](screenshots/cart.png) |
 
-| Payment Page | Order Summary | Admin Dashboard |
+| Payment | restaurant ragistration | Admin Dashboard |
 |--------------|--------------|----------------|
-| ![](screenshots/payment.png) | ![](screenshots/order.png) | ![](screenshots/admin.png) |
+| ![](screenshots/payment.png) | ![](screenshots/admin.png) | ![](screenshots/loginadmin) |
 
 
 ---
