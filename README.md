@@ -42,9 +42,8 @@ Authenticated admins can manage food items, categories, and orders, while users 
 **API Testing:** Postman  
 
 ---
-
 ## 📁 Project Folder Structure
-RestroBuddy/
+RestroBuddy
 │
 ├── frontend : Contains all frontend code
 ├── backend : Contains all backend code
