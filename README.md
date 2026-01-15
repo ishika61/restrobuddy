@@ -67,10 +67,7 @@ RestroBuddy
 
 <img width="1911" height="881" alt="admin" src="https://github.com/user-attachments/assets/c9025827-a9fd-459f-ab99-26c55d771851" />
 
-
-| Admin Dashboard |
-|----------------|
-| ![](<img width="1907" height="876" alt="loginadmin" src="https://github.com/user-attachments/assets/288af3a1-2627-482b-8684-89a399076a44"/>) |
+<img width="1907" height="876" alt="loginadmin" src="https://github.com/user-attachments/assets/288af3a1-2627-482b-8684-89a399076a44"/>
 
 
 
