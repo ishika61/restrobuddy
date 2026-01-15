@@ -65,7 +65,15 @@ RestroBuddy/
 
 <img width="1896" height="887" alt="payment" src="https://github.com/user-attachments/assets/c98aebbd-2fb0-458d-a075-d35b5702b930" />
 <img width="1911" height="881" alt="admin" src="https://github.com/user-attachments/assets/c9025827-a9fd-459f-ab99-26c55d771851" />
-<img width="1907" height="876" alt="loginadmin" src="https://github.com/user-attachments/assets/288af3a1-2627-482b-8684-89a399076a44"/>
+
+
+
+### 🛠️ Admin Panel
+
+| Admin Dashboard |
+|----------------|
+| ![](<img width="1907" height="876" alt="loginadmin" src="https://github.com/user-attachments/assets/288af3a1-2627-482b-8684-89a399076a44"/>
+) |
 
 
 
