@@ -30,10 +30,7 @@ Authenticated admins can manage food items, categories, and orders, while users 
 
 ---
 
-## 🎥 DEMO Video ▶️
-👉 *(Add your demo video link here)*
 
----
 
 ## 🛠️ Tech Stack Used
 
