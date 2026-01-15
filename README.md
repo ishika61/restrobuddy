@@ -69,9 +69,6 @@ RestroBuddy/
 
 
 ### 🛠️ Admin Panel
-
-| Admin Dashboard |
-|----------------|
 <img width="1907" height="876" alt="loginadmin" src="https://github.com/user-attachments/assets/288af3a1-2627-482b-8684-89a399076a44"/>
 
 
